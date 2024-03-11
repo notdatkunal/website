@@ -1,15 +1,4 @@
-/**
-* Template Name: Impact
-* Updated: Jan 30 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# Set main reusable colors and fonts using CSS variables
-# Learn more about CSS variables at https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
---------------------------------------------------------------*/
 /* Fonts */
 :root {
   --font-default: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -20,7 +9,7 @@
 /* Colors */
 :root {
   --color-default: #222222;
-  --color-primary: #008374;
+  --color-primary: #0088ba;
   --color-secondary: #f85a40;
 }
 
@@ -43,7 +32,7 @@ a {
 }
 
 a:hover {
-  color: #00b6a1;
+  color: #0088ba;
   text-decoration: none;
 }
 
@@ -240,7 +229,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .topbar {
-  background: #00796b;
+  background: #0088ba;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -994,7 +983,7 @@ section {
 }
 
 .services .service-item:hover .icon:before {
-  background: #00b6a1;
+  background: #0088ba;
 }
 
 .services .service-item:hover h3 {
@@ -1718,7 +1707,7 @@ section {
 
 .contact .info-item {
   width: 100%;
-  background-color: #009282;
+  background-color: #0088ba;
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 10px;
@@ -1791,7 +1780,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #059652;
+  background: #0088ba;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1849,7 +1838,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: rgba(0, 131, 116, 0.8);
+  background: rgba(0, 136, 181, 0.8);
 }
 
 @keyframes animate-loading {
@@ -1961,7 +1950,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: #008d7d;
+  background: #0088ba;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
@@ -1993,7 +1982,7 @@ section {
 }
 
 .hero .icon-box:hover {
-  background: #009786;
+  background: #0088ba;
 }
 
 .hero .icon-box:hover .title a,
@@ -2344,7 +2333,7 @@ section {
 }
 
 .blog .sidebar .search-form form button:hover {
-  background: rgba(0, 131, 116, 0.8);
+  background: rgba(1, 110, 178, 0.8);
 }
 
 .blog .sidebar .categories ul {
